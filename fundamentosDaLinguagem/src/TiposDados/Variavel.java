@@ -1,6 +1,7 @@
+package TiposDados;
 public class Variavel {
 
-    public static void main(String[] args){
+    public static void main(Texto[] args){
         tipos();
         matrix();
     }
@@ -11,7 +12,7 @@ public class Variavel {
         int x = 40; // Tipo Primitivo
         int y = 50; 
         String nome = "João"; // Tipo não primitivo
-        float divisao = (float) x/y; // "Casting" garante que a divisão seja feita com ponto flutuante
+        double divisao = (float) x/y; // "Casting" garante que a divisão seja feita com ponto flutuante, o double tem o dobro de casas decimais que o float
         boolean check = x > y;
         boolean check2 = x == y;
 
@@ -38,6 +39,6 @@ public class Variavel {
         System.out.printf("Primeiro elemento do segundo conjunto do array multi --> %d\n",  nuns[1][0]);
 
         System.out.printf("Terceiro elemento do terceiro conjunto do array multi --> %d\n", nuns[2][2]);
-        
+        // Tipo wrapper
     }
 }
