@@ -11,6 +11,8 @@ public class ex002 {
         System.out.print("Digite o lado do quadrado: ");
         float lado = scan.nextFloat();
 
+        scan.close();
+
         calcQuad(lado);
     }
 
