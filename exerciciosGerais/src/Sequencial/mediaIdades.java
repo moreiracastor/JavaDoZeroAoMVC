@@ -4,7 +4,7 @@ Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma 
 nomes e a idade média entre essas pessoas, com uma casa decimal, conforme exemplo. 
 */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

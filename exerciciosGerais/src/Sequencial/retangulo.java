@@ -4,7 +4,7 @@ Fazer um programa para ler as medidas da base e altura de um retângulo. Em segu
 da área, perímetro e diagonal deste retângulo, com quatro casas decimais, conforme exemplos. 
  */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

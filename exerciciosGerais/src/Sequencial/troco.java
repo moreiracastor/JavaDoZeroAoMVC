@@ -6,7 +6,7 @@ e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). 
 mostrar o valor do troco a ser devolvido ao cliente. 
 */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

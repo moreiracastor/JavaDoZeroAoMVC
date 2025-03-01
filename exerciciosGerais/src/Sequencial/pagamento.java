@@ -4,7 +4,7 @@
  exemplo.
 */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

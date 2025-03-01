@@ -5,7 +5,7 @@ círculo com três casas decimais. A fórmula da área do círculo é a seguinte
 Você podeusar o valor de 𝜋 fornecido pela biblioteca da sua linguagem de programação, ou então, se preferir, use diretamente o valor 3.14159. 
  */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

@@ -5,7 +5,7 @@
     médio do carro, com três casas decimais. 
 */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

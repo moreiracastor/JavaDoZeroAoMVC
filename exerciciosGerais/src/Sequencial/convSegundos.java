@@ -4,7 +4,7 @@
     formato horas:minutos:segundos 
 */
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

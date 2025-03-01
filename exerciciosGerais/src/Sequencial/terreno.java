@@ -4,7 +4,7 @@
 // o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com 
 // duas casas decimais, conforme exemplo. 
 
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 

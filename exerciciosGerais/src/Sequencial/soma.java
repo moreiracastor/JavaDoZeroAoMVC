@@ -1,4 +1,4 @@
-package Sequencial;
+package sequencial;
 
 import java.util.Scanner;
 public class soma {
