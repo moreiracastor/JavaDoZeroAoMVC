@@ -7,7 +7,7 @@ public class recursao {
     }
     // Visualização -
     public static int soma(int num){
-        // Bloco que será executao
+        // Bloco que será execuçao
         if (num > 0){
             return  num + soma(num - 1);
         } else{

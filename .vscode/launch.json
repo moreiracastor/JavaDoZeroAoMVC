@@ -1,0 +1,140 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "baskhara",
+            "request": "launch",
+            "mainClass": "estruturaCondicionais.baskhara",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "menorDeTres",
+            "request": "launch",
+            "mainClass": "estruturaCondicionais.menorDeTres",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "notas",
+            "request": "launch",
+            "mainClass": "estruturaCondicionais.notas",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "operadora",
+            "request": "launch",
+            "mainClass": "estruturaCondicionais.operadora",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "trocoVerificado",
+            "request": "launch",
+            "mainClass": "estruturaCondicionais.trocoVerificado",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "crescente",
+            "request": "launch",
+            "mainClass": "estruturaLoop.crescente",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "mediaIdade",
+            "request": "launch",
+            "mainClass": "estruturaLoop.mediaIdade",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "somaNumeros",
+            "request": "launch",
+            "mainClass": "estruturaLoop.somaNumeros",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "verificacaoSenha",
+            "request": "launch",
+            "mainClass": "estruturaLoop.verificacaoSenha",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "circulo",
+            "request": "launch",
+            "mainClass": "sequencial.circulo",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "consumo",
+            "request": "launch",
+            "mainClass": "sequencial.consumo",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "convSegundos",
+            "request": "launch",
+            "mainClass": "sequencial.convSegundos",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "mediaIdades",
+            "request": "launch",
+            "mainClass": "sequencial.mediaIdades",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "pagamento",
+            "request": "launch",
+            "mainClass": "sequencial.pagamento",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "retangulo",
+            "request": "launch",
+            "mainClass": "sequencial.retangulo",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "soma",
+            "request": "launch",
+            "mainClass": "sequencial.soma",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "terreno",
+            "request": "launch",
+            "mainClass": "sequencial.terreno",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        },
+        {
+            "type": "java",
+            "name": "troco",
+            "request": "launch",
+            "mainClass": "sequencial.troco",
+            "projectName": "JavaDoZeroAoMVC_15aff5c2"
+        }
+    ]
+}
