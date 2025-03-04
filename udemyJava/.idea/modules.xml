@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/section8/SitemaDeCadastro/SitemaDeCadastro.iml" filepath="$PROJECT_DIR$/src/section8/SitemaDeCadastro/SitemaDeCadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/section8/exOO/exOO.iml" filepath="$PROJECT_DIR$/src/section8/exOO/exOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/section7/section7.iml" filepath="$PROJECT_DIR$/src/section7/section7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemyJava.iml" filepath="$PROJECT_DIR$/udemyJava.iml" />
+    </modules>
+  </component>
+</project>
