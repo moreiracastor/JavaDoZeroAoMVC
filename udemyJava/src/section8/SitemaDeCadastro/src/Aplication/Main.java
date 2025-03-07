@@ -7,21 +7,21 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Product product = new Product();
-
         Locale.setDefault(Locale.US);
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Product data: ");
 
         System.out.print("Name: ");
-        product.name = sc.nextLine();
+        String name = sc.nextLine();
 
         System.out.print("Price: ");
-        product.price = sc.nextDouble();
+        double price = sc.nextDouble();
 
         System.out.print("Quantity: ");
-        product.quantity = sc.nextInt();
+        int quantity = sc.nextInt();
+
+        Product product = new Product(name, price, quantity);
 
         System.out.println("Product" + product);
 
@@ -34,6 +34,9 @@ public class Main {
         product.removeProducts(sc.nextInt());
 
         System.out.println("Removed --> " + product);
+
+        System.out.println("Name \t Qtd. \t Price");
+        System.out.printf("%s \t %d \t %.2f \t", product.getName(), product.getQuantity(), product.getPrice());
 
     }
 }
